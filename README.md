@@ -47,8 +47,12 @@ Each VCO has 3 CV inputs (called Parameters or PARMs) which the VCO mode assigns
 
 ### 3 What is Serum
 
-Serum is a wavetable synthesizer plugin created by Xfer Records that has completely taken over the music production world as the most used synth plugin.
+
 ![image](https://user-images.githubusercontent.com/3820011/210420174-bdb19ebf-4607-4fe0-b91e-4c28a1e31117.png)
+
+
+Serum is a wavetable synthesizer plugin created by Xfer Records that has completely taken over the music production world as the most used synth plugin.
+
 
 
 
