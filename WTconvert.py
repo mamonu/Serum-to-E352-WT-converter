@@ -1,6 +1,5 @@
 import scipy.io.wavfile
 import scipy.signal
-from osc_gen import wavetable, visualize
 import numpy as np
 import os
 import io
@@ -8,6 +7,12 @@ import struct
 import sys
 import soundfile as sf
 import glob
+
+# osc_gen from https://github.com/harveyormston/osc_gen
+from osc_gen import wavetable, visualize
+
+
+
 
 SAMPLE_RATE = 44100
 SERUM_WAVE_LENGTH = 2048
