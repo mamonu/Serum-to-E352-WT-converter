@@ -1,17 +1,22 @@
 #  A Serum to E352 Wavetable converter
 
 
-1. What Are Wavetables & How Do They Work?
-“Wavetable Synthesis” is a technique used to generate unique and evolving waveforms from a series of frames (waveforms) stored within the wavetable. 
+## 1. What Are Wavetables & How Do They Work?
+
+
+`“Wavetable Synthesis”` is a technique used to generate unique and evolving waveforms from a series of frames (waveforms) stored within the wavetable. 
 This technology has been in use since the 70’s but has gained popularity and been expanded upon in recent years. 
-One analogy to understand wavetables would be a flip-book. The flip-book would be the wavetable, and each page within that book would be a waveform. 
-Flipping through the book (wavetable) at a fast pace would produce a morphing or evolving waveform.
+One analogy to understand wavetables would be a flip-book. 
 
 ![image](https://gravitascreate.com/wp-content/uploads/2021/01/flipbook-gif.gif)
 
+The flip-book would be the wavetable, and each page within that book would be a waveform. 
+Flipping through the book (wavetable) at a fast pace would produce a morphing or evolving waveform.
 
 
-# 2 What is the E352?
+
+
+## 2 What is the E352?
 
 
 ![image](https://user-images.githubusercontent.com/3820011/210415586-1f957da1-4702-4733-96d9-438fef5e729f.png)
